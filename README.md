@@ -1,5 +1,5 @@
 # To-Go-Simulating-a-Fast-Food-Environment
-### *Introduction*
+### **Introduction**
 I am excited to share my latest project, To-Go, a Python-based fast-food simulation program. In this project, I have designed a program that creates a virtual fast-food environment, allowing users to interact with a menu, add products, make purchases, and more. This project aims to provide an immersive experience, replicating the functionalities of a fast-food restaurant in a simulated setting. Let's dive into the details of this exciting venture!
 
 ### **Section 1**
